@@ -1,0 +1,109 @@
+.D1{
+    border: dotted 2px black;
+    margin-left: 700px;
+    margin-right: 700px;
+    background-color: pink;
+    height: 1180px;
+}
+.D2{
+background-color: gray;
+margin-right: 100px;
+width: 450px;
+margin-left: 30px;
+height: 930px;
+}
+.D3{
+background-color: grey;
+float: left;
+width: 450px;
+margin-top: -930px;
+margin-left: 500px;
+margin-right: 30px;
+}
+.D4{
+    background-color: pink; 
+    margin-left: 700px;
+    margin-right: 700px;
+    height: 200px;
+
+}
+.I1{
+width: 100px;
+float: left;
+margin-right: 4px;
+}
+.I2{
+    width: 100px;
+    float: left;
+    margin-right: 4px;
+}
+.I3{
+    width: 100px;
+    float: left;
+    margin-right: 4px;
+}
+.I4{
+    width: 100px;
+    float: left;
+    margin-right: 4px;
+}
+.I5{
+    width: 100px;
+    float: left;
+    margin-right: 4px;
+}
+.I6{
+    width: 100px;
+    float: left;
+    margin-right: 4px;
+}
+.H1{
+ background-color: pink;
+ border: outset grey 10px;
+}
+.Paw{
+    width: 13px;
+}
+.P{
+    margin-left: 200px;
+    margin-bottom: -20px;
+}
+a:active{
+    color: red;
+}
+a:hover{
+    color: white;
+}
+.column{
+    width: 100px;
+}
+  .D4:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.c2{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+}
+.c1{
+    width: 150px;
+    height: 150px;
+    margin-left: 155px;
+}
+    .closebtn {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        color: white;
+        font-size: 35px;
+        cursor: pointer;
+    }
+    #imgtext {
+        position: absolute;
+        bottom: 15px;
+        left: 15px;
+        color: white;
+        font-size: 20px;
+    }
